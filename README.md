@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lidya</h1>
 <h3 align="center">a passionate software engineer with expertise in building web and mobile applications using React, Vue.js, Flutter, and Node.js.</h3>
-<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
+<img align="right" width="300" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
 
 - 💬 Ask me about **react,vue,flutter,node**
 
